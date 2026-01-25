@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/kunanon-sopacharoen">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tewkunanon73@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tewkunanon73@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
