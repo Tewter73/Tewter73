@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> 
   <h1 align="center">Hi there, I'm Kunanon (Tew) 👋</h1>
   
   ### 👨‍💻 Computer Science Student @ Chulalongkorn University
