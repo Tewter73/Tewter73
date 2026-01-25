@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"> 
   <h1 align="center">Hi there, I'm Kunanon (Tew) 👋</h1>
   
   ### 👨‍💻 Computer Science Student @ Chulalongkorn University
   
   *Bridging Technical Execution with Business Strategy*
   
-  <a href="https://bit.ly/4sLJREE">
+  <a href="https://www.linkedin.com/in/kunanon-sopacharoen">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tewkunanon73@gmail.com">
