@@ -75,7 +75,7 @@ I am a third-year **Computer Science student** passionate about the intersection
 
 <div align="center">
   <a href="https://github.com/Tewter73">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tewter73&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Tewter73's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tewter73&random=1&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Tewter73's GitHub Stats" />
   </a>
   <a href="https://github.com/Tewter73">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewter73&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
