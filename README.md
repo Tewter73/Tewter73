@@ -71,14 +71,4 @@ I am a third-year **Computer Science student** passionate about the intersection
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tewter73&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewter73&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <i>"Translating business needs into technical reality."</i>
-</div>
